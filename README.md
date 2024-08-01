@@ -6,6 +6,8 @@ I'd love taking on complex jobs. I am pretty versed at DevOPs for AWS and GCP an
 
 I'm available almost 24/6 and my work hours are usually US Eastern time.
 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
 
 <!--
 **majidfarooq/majidfarooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
