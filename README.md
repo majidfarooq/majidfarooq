@@ -4,7 +4,6 @@ I am an Expert Laravel / Ruby on Rails / MERN / MEAN developer. With more than 1
 
 I'd love taking on complex jobs. I am pretty versed at DevOPs for AWS and GCP and usually act as a CTO / Technical Lead too.
 
-I'm available almost 24/6 and my work hours are usually US Eastern time.
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
